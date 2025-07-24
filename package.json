@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-test-1",
+  "name": "@lenmor-invoicesimple/semantic-release-test-1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,9 @@
   "author": "Lenmor Dimanalata",
   "license": "ISC",
   "type": "commonjs",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.1",
