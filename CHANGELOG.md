@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/lenmor-invoicesimple/semantic-release-test-1/compare/v1.0.2...v1.0.3) (2025-07-24)
+
+
+### Bug Fixes
+
+* adjust console log ([5909c87](https://github.com/lenmor-invoicesimple/semantic-release-test-1/commit/5909c870fb02a921f5bcb75f35008f8ee1944a6b))
+
 ## [1.0.2](https://github.com/lenmor-invoicesimple/semantic-release-test-1/compare/v1.0.1...v1.0.2) (2025-07-24)
 
 
