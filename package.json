@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenmor-invoicesimple/semantic-release-test-1.git"
+  },
   "scripts": {
     "release": "semantic-release"
   },
