@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/lenmor-invoicesimple/semantic-release-test-1/compare/v1.1.0...v1.1.1) (2025-07-25)
+
+
+### Bug Fixes
+
+* modify logic ([307e806](https://github.com/lenmor-invoicesimple/semantic-release-test-1/commit/307e806af4382ef91ea9d64d42308cf6546ee83f))
+
 # [1.1.0](https://github.com/lenmor-invoicesimple/semantic-release-test-1/compare/v1.0.3...v1.1.0) (2025-07-25)
 
 
