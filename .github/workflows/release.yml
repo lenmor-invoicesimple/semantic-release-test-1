@@ -6,8 +6,7 @@ on:
       - main
 
 permissions:
-  contents: read # for checkout
-  contents: write # to be able to publish a GitHub release
+  contents: write # read and write
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
