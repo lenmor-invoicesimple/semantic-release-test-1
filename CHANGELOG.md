@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/lenmor-invoicesimple/semantic-release-test-1/compare/v1.2.0...v2.0.0) (2025-08-05)
+
+
+* feat!: major change ([bf30149](https://github.com/lenmor-invoicesimple/semantic-release-test-1/commit/bf301490330aa49f5b46f3315723ff6f51b1d5df))
+
+
+### BREAKING CHANGES
+
+* api redesign
+
 # [1.2.0](https://github.com/lenmor-invoicesimple/semantic-release-test-1/compare/v1.1.2...v1.2.0) (2025-08-05)
 
 
