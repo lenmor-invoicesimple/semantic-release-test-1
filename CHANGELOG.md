@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/lenmor-invoicesimple/semantic-release-test-1/compare/v1.1.2...v1.2.0) (2025-08-05)
+
+
+### Bug Fixes
+
+* patch me ([512aa6b](https://github.com/lenmor-invoicesimple/semantic-release-test-1/commit/512aa6bed31f93ffe3343423e386aa6692f39cd3))
+
+
+### Features
+
+* minor me ([b7b2494](https://github.com/lenmor-invoicesimple/semantic-release-test-1/commit/b7b24944542e262eafa361f5bbf991432fc973a3))
+
 ## [1.1.2](https://github.com/lenmor-invoicesimple/semantic-release-test-1/compare/v1.1.1...v1.1.2) (2025-07-29)
 
 
